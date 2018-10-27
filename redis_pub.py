@@ -1,3 +1,6 @@
+'''
+ this is for redis publisher
+'''
 import redis
 import random
 
